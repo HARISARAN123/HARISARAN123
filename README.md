@@ -1,5 +1,7 @@
 # 💫 About Me:
-🌍 Traveler | Innovator | Tech Enthusiast 💡 Building ideas in tech, startups, and beyond 📩 Open to collaborations and innovative projects!<br>
+🌍 Traveler | Innovator | Tech Enthusiast 
+💡 Building ideas in tech, startups
+, and beyond 📩 Open to collaborations and innovative projects!<br>
 
 
 ## 🌐 Socials:
