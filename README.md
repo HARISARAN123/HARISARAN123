@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Leadership, Django,etc**
 
-- 👨‍💻 All of my projects are available at [itzhari.me](itzhari.me)
+- 👨‍💻 All of my projects are available at [https://github.com/HARISARAN123](https://github.com/HARISARAN123)
 
 - 📫 How to reach me **nambuharisaran123@gmail.com**
 
